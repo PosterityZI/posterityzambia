@@ -1,24 +1,19 @@
 import React from 'react';
 import logo from './logo.png';
 import './App.css';
+import Navbar from './components/Navbar.js';
+import Intro from './components/Intro.js';
+import Works from './components/Works.js';
+import Footer from './components/Footer.js';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>
-          Coming Soon...
-        </h1>
-        <a
-          className="App-link"
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          POSTERITY ZAMBIA INTERNATIONAL
-        </a>
-      </header>
+    <Navbar/>
+    <Intro/>
+    <Works/>
+    <Footer/>
     </div>
   );
 }
