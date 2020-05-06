@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1b05096.chunk.css",
+    "main.js": "/static/js/main.1e8531ec.chunk.js",
+    "main.js.map": "/static/js/main.1e8531ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6460c8b8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6460c8b8.js.map",
+    "static/js/2.ba31a84a.chunk.js": "/static/js/2.ba31a84a.chunk.js",
+    "static/js/2.ba31a84a.chunk.js.map": "/static/js/2.ba31a84a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f9d89213680170590aa90c49ba8e5145.js": "/precache-manifest.f9d89213680170590aa90c49ba8e5145.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ba31a84a.chunk.js.LICENSE.txt": "/static/js/2.ba31a84a.chunk.js.LICENSE.txt",
+    "static/media/civic.jpg": "/static/media/civic.9af88f2a.jpg",
+    "static/media/education.jpg": "/static/media/education.e61ce491.jpg",
+    "static/media/enterprise.jpg": "/static/media/enterprise.a57ee3e2.jpg",
+    "static/media/logo.png": "/static/media/logo.fff7402a.png",
+    "static/media/logo2.png": "/static/media/logo2.bd1cb014.png",
+    "static/media/noah.jpg": "/static/media/noah.3f6770a9.jpg",
+    "static/media/skills.jpg": "/static/media/skills.f7a8d32e.jpg",
+    "static/media/team1.jpg": "/static/media/team1.9b255388.jpg",
+    "static/media/team2.jpg": "/static/media/team2.a96adc27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6460c8b8.js",
+    "static/js/2.ba31a84a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1e8531ec.chunk.js"
+  ]
+}
