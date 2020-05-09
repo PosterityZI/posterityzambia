@@ -151,7 +151,7 @@ function Footer(){
                       </ul>
                       <ul className="copyright">
                         <li>Copyright © 2020  <a href="https://damianochintala.me">Posterity Zambia</a></li>
-                        <li><a href="http://www.styleshout.com/">Styleshout</a> adapted  Design</li>
+                        <li><a href="http://www.styleshout.com/">Styleshout</a> adapted  Design by <a href="https://damianochintala.me/">Damiano</a></li>
                       </ul>
                     </div>
                     <div id="go-top" style={{display: 'block'}}><a title="Back to Top" href="#">Go To Top</a></div>
