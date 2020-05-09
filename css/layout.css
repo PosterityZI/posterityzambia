@@ -200,6 +200,13 @@ header .logo {
    top: 48px;
 }
 
+.marker{
+  font-size: 20px;
+  background: -webkit-linear-gradient(#7B3679,#70AFB6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 header .logo a {
    display: block;
    margin: 0;
@@ -360,7 +367,16 @@ ul#nav ul li a {
 /* c. Intro Section - Main Page
 /* ------------------------------------------------------------------ */
 
-#intro { background: #383232 url(../images/header-bg.jpg); }
+.carousel{
+width:100%;
+background: #383232 url(../images/header-bg.jpg);
+padding:0;
+margin:0;
+ }
+
+.soon{
+	text-color:blue:
+}
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
@@ -374,10 +390,12 @@ ul#nav ul li a {
 .slides li { margin: 0; padding: 0;}
 
 /* Necessary Styles */
-.flexslider {
-   position: relative;
+.changed{
+background: #383232 url(../images/header-bg.jpg);
+   position:relative;
    zoom: 1;
-   margin: 0;
+   margin-left:5px;
+   margin-right:-0px;
    padding: 0;
 }
 .flexslider .slides { zoom: 1; }
@@ -1182,14 +1200,14 @@ footer a:hover { color: #11ABB0; }
 footer .footer-nav {
    font: 18px/36px raleway-bold, sans-serif;
    margin: 0;
-   padding: 0 0 24px 0;
+   padding: 0 0 240px 0;
    text-align: center;
    border-bottom: 1px solid #c4caca;
 }
 footer .footer-nav li {
    display: inline;
    margin-right: 20px;
-   margin-left: 20px;
+   margin-left: 0;
 }
 footer .footer-nav a { color: #7B858E; }
 footer .footer-nav a:hover { color: #313131; }

@@ -53,7 +53,7 @@ time, mark, audio, video {
    border: 0;
    outline: 0;
    font-size: 100%;
-   vertical-align: baseline;
+  /* vertical-align: baseline;*/
    background: transparent;
 }
 
@@ -593,8 +593,9 @@ input[type="checkbox"] { display: inline; }
 /* default
 --------------------------------------------------------------- */
 .row {
-   width: 96%;
+   width: 100%;
    max-width: 1020px;
+   overflow-x:hidden;
    margin: 0 auto;
 }
 /* fixed width for IE8 */
