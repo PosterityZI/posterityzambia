@@ -1,13 +1,9 @@
 import React from 'react';
 import { img01, img02, img03, img04, img05, img06 } from '../images';
 
-class Intro extends React.Component{
-
-
-render(){
+function Carousel(){
 	return(
-		<section id="intro">
-		    <div className="container-fluid">
+	  <div className="container">
         <div className="row">
           <div className="col mb-4 mb-lg-0">          
             <div id="carouselExampleIndicators"  className="carousel slide" data-ride="carousel">
@@ -43,10 +39,7 @@ render(){
           </div>
         </div>
       </div>
-		</section>
-		
-	)
-	}
+)
 }
 
-export default Intro
+export default Carousel
