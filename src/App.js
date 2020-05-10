@@ -87,26 +87,26 @@ function Works(){
                       </div>
                       <div className="columns portfolio-item">
                         <div className="item-wrap" style={{'height':'300px'}} >
-                          <a href="portfolio.html">
+                          <a href="index.html">
                             <img alt="" src={img03} style={{'width':'100%', 'height':'200px'}}/>
                             <div className="overlay" />
                             <div className="link-icon"><i className="fa fa-link" /></div>
                           </a>
                           <div className="portfolio-item-meta">
-                            <h5><a href="portfolio.html">Civic Engangement</a></h5>
+                            <h5><a href="index.html">Civic Engangement</a></h5>
                             <p>Civic Engangement as a means of information dessimination and involvement</p>
                           </div>
                         </div>
                       </div>
                       <div className="columns portfolio-item"  >
                         <div className="item-wrap" style={{'height':'300px'}}>
-                          <a href="portfolio.html">
+                          <a href="index.html">
                             <img alt="" src={img05} style={{'width':'100%', 'height':'200px'}} />
                             <div className="overlay" />
                             <div className="link-icon"><i className="fa fa-link" /></div>
                           </a>
                           <div className="portfolio-item-meta">
-                            <h5><a href="portfolio.html">Entrepreneurship</a></h5>
+                            <h5><a href="index.html">Entrepreneurship</a></h5>
                             <p>Promoting Life Skills, Innovation and Entrepreneurship</p>
                           </div>
                         </div>
