@@ -537,6 +537,7 @@ background: #383232 url(../images/header-bg.jpg);
    padding-bottom: 36px;
    border-top: 1px solid #E3E8E8;
    border-bottom: 1px solid #E3E8E8;
+   text-align-last: center;
 }
 #works h1 {
    font: 20px/36px raleway-bold, sans-serif;
