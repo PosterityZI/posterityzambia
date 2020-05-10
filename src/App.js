@@ -3,7 +3,6 @@ import Loadable from 'react-loadable';
 import { HashRouter, Route, Link } from "react-router-dom";
 import './App.css';
 import { img01, img02, img03, img04, img05, img07 } from './images';
-import logo from './logo.png';
 import loading from './loading.jpg';
 import Nav from './components/Nav.js';
 import Soon from './components/Soon.js';
