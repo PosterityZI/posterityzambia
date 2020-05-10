@@ -119,7 +119,7 @@ function Works(){
                             <div className="link-icon"><i className="fa fa-link" /></div>
                           </a>
                           <div className="portfolio-item-meta">
-                            <h5><a href="portfolio.html">Education</a></h5>
+                            <h5><a href="index.html">Education</a></h5>
                             <p>Improving Education standards for disadvantaged communities</p>
                           </div>
                         </div>
