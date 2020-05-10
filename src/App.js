@@ -74,7 +74,7 @@ function Works(){
                     <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-halves">
                       <div className="columns portfolio-item">
                         <div className="item-wrap" style={{'height':'300px'}}  >
-                          <a href="portfolio.html">
+                          <a href="index.html">
                             <img alt="" src={img04} style={{'width':'100%', 'height':'200px'}}/>
                             <div className="overlay" />
                             <div className="link-icon"><i className="fa fa-link" /></div>
@@ -113,7 +113,7 @@ function Works(){
                       </div>
                       <div className="columns portfolio-item">
                         <div className="item-wrap" style={{'height':'300px'}} >
-                         <a href="portfolio.html">
+                         <a href="index.html">
                             <img alt="" src={img07} style={{'width':'100%', 'height':'200px'}}/>
                             <div className="overlay" />
                             <div className="link-icon"><i className="fa fa-link" /></div>
