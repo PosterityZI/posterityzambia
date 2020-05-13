@@ -9,7 +9,7 @@ function Footer(){
                       <ul className="footer-nav">
                         <li><Link to="/">Home.</Link></li>
                         <li><Link to="/soon">Blog.</Link></li>
-                        <li><Link to="/soon">About.</Link></li>
+                        <li><Link to="/about">About.</Link></li>
                         <li><Link to="/soon">Contact.</Link></li>
                         <li><Link to="/soon">Projects.</Link></li>
                       </ul>

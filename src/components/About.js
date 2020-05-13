@@ -1,5 +1,6 @@
 import React from 'react';
 import Nav from './Nav.js';
+import Footer from './Footer.js';
 
 function About(){
 	return(
@@ -139,6 +140,7 @@ function About(){
             </div>
 		  </div>
 		</div>
+	   <Footer/>
 	  </div>
 		
 	)
