@@ -1,6 +1,6 @@
 import React from 'react';
-import { HashRouter, Route, Link } from "react-router-dom";
-
+import { HashRouter, Rout } from "react-router-dom";
+import { HashLink as Link } from 'react-router-hash-link';
 function Footer(props){
 	return(
 				<footer className="container">
@@ -25,7 +25,7 @@ function Footer(props){
                         <li><a href="http://www.styleshout.com/">Styleshout</a> adapted  Design by <a href="https://damianochintala.me/">Damiano</a></li>
                       </ul>
                     </div>
-                    <div id="go-top" style={{display: 'block'}}><Link title="Back to Top" to={props.link}>Go To Top</Link></div>
+                    <div id="go-top" style={{display: 'block'}}><Link title="Back to Top" smooth to={props.link}>Go To Top</Link></div>
                   </div>
                 </footer>
 		

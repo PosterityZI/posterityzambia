@@ -27,10 +27,12 @@ function App() {
 function Home(){
         return(
         <div className="">
+         <div id ="top">
         	 <Nav/>
+        </div>
         	 <Carousel/>
              <Works/>
-             <Footer/>
+             <Footer link={'#top'}/>
         </div>
 )
 }

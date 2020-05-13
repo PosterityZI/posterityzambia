@@ -1,11 +1,14 @@
 import React from 'react';
 import Nav from './Nav.js';
 import Footer from './Footer.js';
+import { HashLink as Link } from 'react-router-hash-link';
 
 function About(){
 	return(
+	<div id="top">
 	<div>
 		<Nav/>
+	</div>
 	   <div id="page-title">
 
       <div className="row">
@@ -140,10 +143,11 @@ function About(){
             </div>
 		  </div>
 		</div>
-	   <Footer link={'/soon'}/>
+	   <Footer link={'#top'}/>
 	  </div>
 		
 	)
 }
 
 export default About;
+ 
