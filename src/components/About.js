@@ -140,7 +140,7 @@ function About(){
             </div>
 		  </div>
 		</div>
-	   <Footer/>
+	   <Footer link={'/soon'}/>
 	  </div>
 		
 	)

@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashRouter, Route, Link } from "react-router-dom";
 
-function Footer(){
+function Footer(props){
 	return(
 				<footer className="container">
                   <div className="row">
@@ -25,7 +25,7 @@ function Footer(){
                         <li><a href="http://www.styleshout.com/">Styleshout</a> adapted  Design by <a href="https://damianochintala.me/">Damiano</a></li>
                       </ul>
                     </div>
-                    <div id="go-top" style={{display: 'block'}}><a title="Back to Top" href="#">Go To Top</a></div>
+                    <div id="go-top" style={{display: 'block'}}><Link title="Back to Top" to={props.link}>Go To Top</Link></div>
                   </div>
                 </footer>
 		
