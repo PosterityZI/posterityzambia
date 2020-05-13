@@ -1,0 +1,13 @@
+{
+	"main":{
+		"posts":[
+			{
+				"title":"This Title",
+				"date":"Today's date",
+				"image":"founder1.jpg",
+				"content":"this content"
+				
+			}
+		]
+	}
+}
