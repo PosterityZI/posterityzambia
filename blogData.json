@@ -1,0 +1,23 @@
+{
+	"posts":[
+			{
+				"title":"Birth of a dream",
+				"date":"Posted:10 May 2020",
+				"image":"images/team/founder1.jpg",
+				"content":"Born and bred in Kitwe's Kapoto compound,having witnessed first hand the low standards of living in the community he grew up in in his formative years, Noah Aaron Mwewa gave birth to an idea of a platform that would contribute towards poverty alleviation in Zambia. What is now Posterity Zambia started off close to a decade ago  as Love Just Foundation, a community based organization aimed at raising and sharing resources amongst the most vulnerable in society."
+				
+			},
+			{
+				"title":"A new Dawn",
+				"date":"Posted: 13 May 2020",
+				"image":"images/team/blog1.jpg",
+				"content":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu posuere nunc justo tempus leo. Donec mattis, purus nec placerat bibendum, dui pede condimentum odio, ac blandit ante orci ut diam. Cras fringilla magna. Phasellus suscipit, leo a pharetra condimentum, lorem tellus eleifend magna, eget fringilla velit magna id neque. posuere nunc justo tempus leo."
+			},
+			{
+                 "title":"Ending Poverty Together",
+                  "date":"Posted: 14 May 2020",
+                  "image":"images/team/blog2.jpg",
+                  "content":"Quisque venenatis interdum bibendum condimentum lobortis imperdiet himenaeos, sodales sem cubilia consequat congue dolor massa euismod, fames placerat quisque nec aenean consectetur donec aliquet potenti scelerisque diam pharetra ullamcorper cursus ultricies ornare.Conubia erat class tempor vestibulum dapibus nec tempus, lacinia netus consectetur orci purus rhoncus ornare, est velit sem nisl lectus est."
+            }
+		]
+}
