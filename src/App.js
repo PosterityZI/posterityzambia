@@ -8,6 +8,7 @@ import Nav from './components/Nav.js';
 import Soon from './components/Soon.js';
 import About from './components/About.js';
 import Footer from './components/Footer.js';
+import Blog from './components/Blog.js';
 
 function App() {
   return (
@@ -27,12 +28,12 @@ function App() {
 function Home(){
         return(
         <div className="">
-         <div id ="top">
+         <div id ="toph">
         	 <Nav/>
         </div>
         	 <Carousel/>
              <Works/>
-             <Footer link={'#top'}/>
+             <Footer link={'#toph'}/>
         </div>
 )
 }
@@ -149,12 +150,6 @@ const LoadableBar = Loadable({
 });
 
 
-function About0(){
-
-	return(
-	<LoadableBar/>
-	)
-}
 
 function Projects(){
     return(
@@ -168,11 +163,6 @@ function Contact(){
    )
 }
 
-function Blog(){
-return(
-    <LoadableBar/>
-    )
-}
 
 
 

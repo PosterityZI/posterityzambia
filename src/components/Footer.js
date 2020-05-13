@@ -7,9 +7,9 @@ function Footer(props){
                   <div className="row">
                     <div className="twelve columns">
                       <ul className="footer-nav">
-                        <li><Link to="/">Home.</Link></li>
-                        <li><Link to="/soon">Blog.</Link></li>
-                        <li><Link to="/about">About.</Link></li>
+                        <li><Link to="/#toph">Home.</Link></li>
+                        <li><Link smooth to="/blog#topb">Blog.</Link></li>
+                        <li><Link smooth to="/about#topa">About.</Link></li>
                         <li><Link to="/soon">Contact.</Link></li>
                         <li><Link to="/soon">Projects.</Link></li>
                       </ul>

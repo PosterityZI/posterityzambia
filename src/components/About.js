@@ -5,7 +5,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 
 function About(){
 	return(
-	<div id="top">
+	<div id="topa">
 	<div>
 		<Nav/>
 	</div>
@@ -143,7 +143,7 @@ function About(){
             </div>
 		  </div>
 		</div>
-	   <Footer link={'#top'}/>
+	   <Footer link={'#topa'}/>
 	  </div>
 		
 	)
