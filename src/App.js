@@ -1,6 +1,6 @@
 import React from 'react';
 import Loadable from 'react-loadable';
-import { HashRouter, Route, Link } from "react-router-dom";
+import { HashRouter, Route} from "react-router-dom";
 import './App.css';
 import { img01, img02, img03, img04, img05, img07 } from './images';
 import loading from './loading.jpg';
@@ -51,14 +51,14 @@ function Carousel(){
 		              <h1>A Better Next Generation<span>.</span></h1>
 		              <p>It is only possible if we hold hands and work together for the greater good</p>
 		            </div>
-                  <img src={img01} className="d-block w-100" alt="pzi maiden" />
+                  <img src={img01} className="d-block w-100" alt="Posterity Zambia International" />
                 </div>
                 <div className="carousel-item" >
                     <div className="slider-text">
 		              <h1>Empowering Communities<span>.</span></h1>
 		              <p>Fighting poverty through empowerment, education and innovation.</p>
 		            </div>
-                  <img src={img02} className="d-block w-100" alt="pzi maiden2" />
+                  <img src={img02} className="d-block w-100" alt="Posterity Zambia International" />
                 </div>
               </div>
             </div>

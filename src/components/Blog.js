@@ -31,7 +31,7 @@ export default class App extends Component {
                 
                       <h3>{pd.title}</h3>
                 
-                      <p><a href="#"><img width="120" height="50" className="pull-left" alt="sample-image" src={pd.image}/></a>{pd.content}</p>
+                      <p><a href="index.html"><img width="120" height="50" className="pull-left" alt="Posterity Zambia" src={pd.image}/></a>{pd.content}</p>
                 <h3>{pd.date}</h3>
                    </div>
                    <hr />

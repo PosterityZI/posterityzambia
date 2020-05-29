@@ -1,5 +1,4 @@
 import React from 'react';
-import { HashRouter, Rout } from "react-router-dom";
 import { HashLink as Link } from 'react-router-hash-link';
 function Footer(props){
 	return(
@@ -15,10 +14,10 @@ function Footer(props){
                       </ul>
                       <ul className="footer-social">
                         <li><a href="https://facebook.com/279271898900830/" target = "_blank" rel="noopener noreferrer" ><i className="fa fa-facebook" /></a></li>
-                        <li><a href="#"><i className="fa fa-twitter" /></a></li>
-                        <li><a href="mailto:posterityza@gmail.com" target="_blank"><i className="fa fa-envelope" /></a></li>
-                        <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-                        <li><a href="#"><i className="fa fa-skype" /></a></li>
+                        <li><a href="www.twitter.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter" /></a></li>
+                        <li><a href="mailto:posterityza@gmail.com" target="_blank" rel="noopener noreferrer" ><i className="fa fa-envelope" /></a></li>
+                        <li><a href="www.linkedin.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
+                        <li><a href="www.skype.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-skype" /></a></li>
                       </ul>
                       <ul className="copyright">
                         <li>Copyright © 2020  <a href="https://damianochintala.me">Posterity Zambia</a></li>

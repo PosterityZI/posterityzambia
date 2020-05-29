@@ -9,7 +9,7 @@ import logo from  '../logo.png'
      <div className="" style={{'backgroundColor':'#3A3434'}}>
      <div className="">
      <nav className="row navbar sticky-top  navbar-expand-md navbar-dark">
-     <Link className="navbar-brand" to="/"><img src={logo} width="100" height="30" alt="site logo"/><span className="marker"> Posterity Zambia</span></Link>
+     <Link className="navbar-brand" to="/"><img src={logo} width="100" height="30" alt="Posterity Zambia International"/><span className="marker"> Posterity Zambia</span></Link>
  <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
      <span className="navbar-toggler-icon"></span>
  </button>

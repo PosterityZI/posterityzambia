@@ -1,7 +1,6 @@
 import React from 'react';
 import Nav from './Nav.js';
 import Footer from './Footer.js';
-import { HashLink as Link } from 'react-router-hash-link';
 
 function About(){
 	return(
@@ -47,7 +46,7 @@ function About(){
 		              <ul className="member-social">
 		                <li><a href="https://www.facebook.com/noah.mwewa.1" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook" /></a></li>
 		                <li><a href="https://twitter.com/Noahmwewa2?s=09" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter" /></a></li>
-		                <li><a href="#"><i className="fa fa-linkedin" /></a></li>
+		                <li><a href="www.likedin.com"><i className="fa fa-linkedin" /></a></li>
 		              </ul>
 		            </div>
 		            <div className="column member">
@@ -74,7 +73,7 @@ function About(){
                                 nisi elit consequat ipsum, nec sagittis sem nibh id elit. </p><br/>
                               <ul className="member-social">
                                 <li><a href="https://www.facebook.com/profile.php?id=100008831883000" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook" /></a></li>
-                                <li><a href="#"><i className="fa fa-twitter" /></a></li>
+                                <li><a href="www.twitter.com"><i className="fa fa-twitter" /></a></li>
                                 <li><a href="https://www.linkedin.com/in/probby-malyango-903657144" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
                               </ul>
                             </div>
@@ -92,6 +91,9 @@ function About(){
 		                <li><a href="https://www.linkedin.com/in/aaron-sichone-0a3077156" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
 		              </ul>
 		            </div>
+
+
+		            
 		            <div className="column member">
 		              <img src="images/team/hoo.jpg" alt="" />
 		              <div className="member-name">
@@ -130,7 +132,7 @@ function About(){
           					   <h5>Email and Social</h5>
           					   <p>
                         E-mail: posterity@gmail.com<br/>
-                        Twitter: <a href="#">@posterityzi</a><br/>
+                        Twitter: <a href="www.twitter.com">@posterityzi</a><br/>
                         Facebook: <a href="https://www.facebook.com/Posterity-Zambia-International-279271898900830/" target="_blank" rel="noopener noreferrer" >Posterity Zambia International </a><br/>
                         Gmail: <a href="mailto:posterityza@gmail.com" target="_blank" rel="noopener noreferrer">posterityza</a>
                      </p>
