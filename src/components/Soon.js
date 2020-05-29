@@ -4,6 +4,7 @@ import logo from '../logo.png';
 import '../App.css';
 
 function Soon(){
+
 	return(
            <div className="App">
             <div className="App-header">

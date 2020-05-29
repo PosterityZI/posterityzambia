@@ -6,14 +6,14 @@ import logo from  '../logo.png'
 
   function Nav() {
     return (
-     <div className="row" style={{'backgroundColor':'#3A3434'}}>
-     <div className="twelve columns">
-     <nav className="col navbar sticky-top  navbar-expand-lg navbar-dark">
+     <div className="" style={{'backgroundColor':'#3A3434'}}>
+     <div className="">
+     <nav className="row navbar sticky-top  navbar-expand-md navbar-dark">
      <Link className="navbar-brand" to="/"><img src={logo} width="100" height="30" alt="site logo"/><span className="marker"> Posterity Zambia</span></Link>
  <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
      <span className="navbar-toggler-icon"></span>
  </button>
-     <div id="navbarContent" className="collapse navbar-collapse">
+     <div id="navbarContent" className="collapse navbar-collapse" style={{"paddingLeft":"10px"}}>
      <ul className="navbar-nav">
      <li className="nav-item active">
      <Link className="nav-link" to="/">Home</Link>
